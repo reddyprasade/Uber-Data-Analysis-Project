@@ -1,0 +1,2 @@
+# Uber-Data-Analysis-Project
+Data is the oil for uber. With data analysis tools and great insights, Uber improve its decisions, marketing strategy, promotional offers and predictive analytics.  With more than 15 million rides per day across 600 cities in 65 countries, Uber is growing rapidly with Data Science starting from data visualization and gaining insights that help them to craft better decisions. Data Science tools play a key role in every operation of Uber.
